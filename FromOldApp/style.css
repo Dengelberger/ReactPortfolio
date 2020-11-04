@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+  }
+.container {
+    margin-top: 20px;
+    float: center;
+}
+.card {
+    margin: 10px;
+}
+.card-deck {
+    margin-top: 20px;
+}
+.card-title {
+    font-size: 24px;
+}
+.card-text {
+    font-size: 20px;
+}
+p {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 24px;
+}
+.container-form {
+    margin-top: 20px;
+    float: center;
+}
+.col-lg-4 {
+    font-size: 24px;
+}
+ul a {
+    color: white;
+}
+#contact-info h2 {
+    font-size: 24px;
+}
+#contact-info ul li {
+    font-size: 22px;
+}
