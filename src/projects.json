@@ -5,7 +5,7 @@
     "alt" : "Main pet search page",
     "url" : "https://my-pet-search-app.herokuapp.com",
     "github" : "https://github.com/Dengelberger/FurryFriendFinder",
-    "technology used" : "MySQL, Sequelize, Passport",
+    "tech" : "MySQL, Sequelize, Passport",
     "description" : "An app to search for pets to adopt.",
     "type" : "group"
 },
@@ -16,7 +16,7 @@
     "alt" : "Stockfinder main page",
     "url" : "https://dengelberger.github.io/StockFinder/",
     "github" : "https://github.com/Dengelberger/StockFinder",
-    "technology used" : "AJAX and API's",
+    "tech" : "AJAX and API's",
     "description" : "An app to research stocks and learn about the stock market.",
     "type" : "group"
 },
@@ -27,7 +27,7 @@
     "alt" : "A temporary picture for our app",
     "url" : "",
     "github" : "https://github.com/Dengelberger/Hearth",
-    "technology used" : "React.js, MongoDB, Heroku, MERN",
+    "tech" : "React.js, MongoDB, Heroku, MERN",
     "description" : "This project is currently in development.",
     "type" : "group"
 },
@@ -38,7 +38,7 @@
     "alt" : "Burger main page",
     "url" : "https://my-burger-app1.herokuapp.com",
     "github" : "https://github.com/Dengelberger/burger",
-    "technology used" : "MySql, Node.js, Express, Express Handlebars, Heroku",
+    "tech" : "MySql, Node.js, Express, Express Handlebars, Heroku",
     "description" : "Make a burger, eat a burger, delete a burger.",
     "type" : "individual"
 },
@@ -49,7 +49,7 @@
     "alt" : "Main page from app",
     "url" : "https://dengelberger.github.io/Password-Generator/",
     "github" : "https://github.com/Dengelberger/Password-Generator",
-    "technology used" : "Inquirer prompts and arrays",
+    "tech" : "Inquirer prompts and arrays",
     "description" : "Build a password based upon user-selected criteria.",
     "type" : "individual"
 },
@@ -60,7 +60,7 @@
     "alt" : "Scheduler page",
     "url" : "https://dengelberger.github.io/Work-Day-Scheduler/",
     "github" : "https://github.com/Dengelberger/Work-Day-Scheduler",
-    "technology used" : "jQuery, Moment.js, dynamic HTML",
+    "tech" : "jQuery, Moment.js, dynamic HTML",
     "description" : "Use this app to keep track of appointments and todo's. It will indicate past, present, future",
     "type" : "individual"
 },
@@ -71,7 +71,7 @@
     "alt" : "Dashboard page",
     "url" : "https://dengelberger.github.io/Weather-Dashboard/",
     "github" : "https://github.com/Dengelberger/Weather-Dashboard",
-    "technology used" : "API's and AJAX",
+    "tech" : "API's and AJAX",
     "description" : "Find the current weather conditions and a five-day forecast for a named city.",
     "type" : "individual"
 },
@@ -82,7 +82,7 @@
     "alt" : "Page on Upload",
     "url" : "https://dengelberger.github.io/Employee-Directory/",
     "github" : "https://github.com/Dengelberger/Employee-Directory",
-    "technology used" : "React.js, JSX, JSON",
+    "tech" : "React.js, JSX, JSON",
     "description" : "A searchable contact list.",
     "type" : "individual"
 },
@@ -93,7 +93,7 @@
     "alt" : "NoteTaker get started page",
     "url" : "https://note-taker-app-de.herokuapp.com/",
     "github" : "https://github.com/Dengelberger/NoteTaker",
-    "technology used" : "JSON database, Heroku, dynamic HTML/CSS",
+    "tech" : "JSON database, Heroku, dynamic HTML/CSS",
     "description" : "A place to take notes for class or meetings and save them.",
     "type" : "individual"
 }

@@ -1,13 +1,16 @@
 import React from "react";
-import "./Footer.css";
 
 function Footer() {
     return (
-      <footer>
-          <p>Copyright &Copy; 2020</p>
-      </footer>
+      <footer class="footer mt-auto py-3 bg-light">
+      <div class="container text-center">
+        <span class="text-muted">Copyright @ 2020  Donna Engelberger</span>
+      </div>
+    </footer>
     )
     
     }
     
     export default Footer;
+
+    
