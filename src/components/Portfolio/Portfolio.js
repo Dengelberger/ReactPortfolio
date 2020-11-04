@@ -11,8 +11,8 @@ class Portfolio extends Component {
 
   render() {
     return (
-        <div class="container">
-      <h1>My Group Projects</h1>
+        <div className="container">
+      <h1>My Projects</h1>
       <Row>
       {this.state.project.map(project => <ProjectCard
         key={project.id}
@@ -26,6 +26,8 @@ class Portfolio extends Component {
         description={project.description}
         type={project.type} />)}
       </Row>
+      <br></br>
+      <Row></Row>
       </div>
     )
       };

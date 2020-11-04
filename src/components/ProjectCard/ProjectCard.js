@@ -6,7 +6,7 @@ import {
 
 const ProjectCard = (props) => {
   return (
-      <Card className="col-md-4">
+      <Card className="col-sm-4" style={{marginTop: "10px", marginBottom: "10px"}}>
         <CardImg top src={props.image} alt={props.alt} />
         <CardBody>
           <CardTitle tag="h5">{props.name}</CardTitle>

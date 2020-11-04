@@ -10,9 +10,9 @@ import "./App.css"
 function App() {
   return (
     <BrowserRouter>
-      <div>
+      <div className="whole">
         <Header />
-        <Switch>
+        <Switch className="section">
           <Route exact path={["/", "/About"]} component={About} />
           <Route path="/Portfolio" component={Portfolio} />
           <Route path="/Contact" component={Contact} />

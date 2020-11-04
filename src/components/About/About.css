@@ -1,3 +1,8 @@
-main {
-    background-color: lightseagreen;
+.main {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+p {
+    font-size: 24px;
 }
