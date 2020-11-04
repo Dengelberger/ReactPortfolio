@@ -1,10 +1,11 @@
 import React from "react";
 import "./Header.css";
+import NavBar from "../NavBar";
 
 function Header() {
     return (
         <header>
-            This is where the navbar will go.
+            <NavBar />
         </header>
     )
     
