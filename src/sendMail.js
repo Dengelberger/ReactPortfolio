@@ -2,14 +2,14 @@ var express = require('express');
 var router = express.Router();
 var nodemailer = require('nodemailer');
 var cors = require('cors');
-var env = require('env');
+require('dotenv').config();
 
 nodemailer.createTransport({
   host: "smtp.gmail.com", //replace with your email provider
   port: 587,
   auth: {
     user: dengelberger, //replace with the email address
-    pass: "BaxterBear55!" //replace with the password
+    pass: process.env.emailpw //replace with the password
   }
 });
 
