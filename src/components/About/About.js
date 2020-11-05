@@ -7,7 +7,7 @@ function About() {
     <Container className="main" style={{align: "center", width: "100%", height: "90%"}}>
       <Row style={{align: "center", width: "100%", height: "90%", marginLeft: "10px"}}>
       <Col xs="3">
-      <img src=".../../assets/MyBioPic2.jpg" class="img-rounded" alt="My Photo" width="240" height="260"> 
+      <img src="https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/MyBioPic_jaawj8.jpg" class="img-rounded" alt="My Photo" width="240" height="260"> 
       </img>
       </Col>
         <Col xs="auto"></Col>

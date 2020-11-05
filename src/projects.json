@@ -1,7 +1,7 @@
 [{
     "id" : 1,
     "name" : "FurryFriendFinder",
-    "image" : "assets/PetSearch.png",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/PetSearch_gyoxrl.png",
     "alt" : "Main pet search page",
     "url" : "https://my-pet-search-app.herokuapp.com",
     "github" : "https://github.com/Dengelberger/FurryFriendFinder",
@@ -12,7 +12,7 @@
 {
     "id" : 2,
     "name" : "StockFinder",
-    "image" : "assets/StockFinder.png",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608956/StockFinder_oc8d3d.png",
     "alt" : "Stockfinder main page",
     "url" : "https://dengelberger.github.io/StockFinder/",
     "github" : "https://github.com/Dengelberger/StockFinder",
@@ -23,7 +23,7 @@
 {
     "id" : 3,
     "name" : "Hearth",
-    "image" : "assets/Hearth.jpeg",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/Hearth_lqnm2p.jpg",
     "alt" : "A temporary picture for our app",
     "url" : "",
     "github" : "https://github.com/Dengelberger/Hearth",
@@ -34,7 +34,7 @@
 {
     "id" : 4,
     "name" : "BurgerApp",
-    "image" : "assets/BurgerApp.png",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/BurgerApp_yqwrvb.png",
     "alt" : "Burger main page",
     "url" : "https://my-burger-app1.herokuapp.com",
     "github" : "https://github.com/Dengelberger/burger",
@@ -45,7 +45,7 @@
 {
     "id" : 5,
     "name" : "PasswordGenerator",
-    "image" : "assets/PasswordGenerator.png",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/PasswordGenerator_uu8pnx.png",
     "alt" : "Main page from app",
     "url" : "https://dengelberger.github.io/Password-Generator/",
     "github" : "https://github.com/Dengelberger/Password-Generator",
@@ -56,7 +56,7 @@
 {
     "id" : 6,
     "name" : "WorkDayScheduler",
-    "image" : "assets/WorkDayScheduler.png",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608956/WorkDayScheduler_a4swsa.png",
     "alt" : "Scheduler page",
     "url" : "https://dengelberger.github.io/Work-Day-Scheduler/",
     "github" : "https://github.com/Dengelberger/Work-Day-Scheduler",
@@ -67,7 +67,7 @@
 {
     "id" : 7,
     "name" : "WeatherDashboard",
-    "image" : "assets/WeatherDashboard.png",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/WeatherDashboard_gsmdr0.png",
     "alt" : "Dashboard page",
     "url" : "https://dengelberger.github.io/Weather-Dashboard/",
     "github" : "https://github.com/Dengelberger/Weather-Dashboard",
@@ -78,7 +78,7 @@
 {
     "id" : 8,
     "name" : "EmployeeDirectory",
-    "image" : "assets/EmployeeDirectory.png",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/EmployeeDirectory_kosbks.png",
     "alt" : "Page on Upload",
     "url" : "https://dengelberger.github.io/Employee-Directory/",
     "github" : "https://github.com/Dengelberger/Employee-Directory",
@@ -89,7 +89,7 @@
 {
     "id" : 9,
     "name" : "NoteTaker",
-    "image" : "assets/NoteTaker.png",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/NoteTaker_jjyjui.png",
     "alt" : "NoteTaker get started page",
     "url" : "https://note-taker-app-de.herokuapp.com/",
     "github" : "https://github.com/Dengelberger/NoteTaker",
