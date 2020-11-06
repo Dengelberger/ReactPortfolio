@@ -13,7 +13,9 @@ function App() {
       <div className="whole">
         <Header />
         <Switch className="section">
-          <Route exact path={["/", "/About"]} component={About} />
+          <Route exact path={"/"} component={About} />
+          <Route path={"/ReactPortfolio"} component={About} />
+          <Route path="/About" component={About} />
           <Route path="/Portfolio" component={Portfolio} />
           <Route path="/Contact" component={Contact} />
         </Switch>

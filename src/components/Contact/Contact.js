@@ -71,7 +71,7 @@ render () {
           <Input type="textarea" name="message" id="contactMessage" 
            required value={this.state.message} onChange={this.onMsgChange.bind(this)}/>
         </FormGroup>
-        <Button onSubmit={this.submitEmail.bind(this)} method="POST">Submit</Button>
+        <Button color="success" onSubmit={this.submitEmail.bind(this)} method="POST">Submit</Button>
       </Form>
     </div>
   )

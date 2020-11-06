@@ -7,7 +7,7 @@
     "github" : "https://github.com/Dengelberger/FurryFriendFinder",
     "tech" : "MySQL, Sequelize, Passport",
     "description" : "An app to search for pets to adopt.",
-    "type" : "group"
+    "type" : "Group"
 },
 {
     "id" : 2,
@@ -18,7 +18,7 @@
     "github" : "https://github.com/Dengelberger/StockFinder",
     "tech" : "AJAX and API's",
     "description" : "An app to research stocks and learn about the stock market.",
-    "type" : "group"
+    "type" : "Group"
 },
 {
     "id" : 3,
@@ -29,7 +29,7 @@
     "github" : "https://github.com/Dengelberger/Hearth",
     "tech" : "React.js, MongoDB, Heroku, MERN",
     "description" : "This project is currently in development.",
-    "type" : "group"
+    "type" : "Group"
 },
 {
     "id" : 4,
@@ -40,7 +40,7 @@
     "github" : "https://github.com/Dengelberger/burger",
     "tech" : "MySql, Node.js, Express, Express Handlebars, Heroku",
     "description" : "Make a burger, eat a burger, delete a burger.",
-    "type" : "individual"
+    "type" : "Individual"
 },
 {
     "id" : 5,
@@ -51,7 +51,7 @@
     "github" : "https://github.com/Dengelberger/Password-Generator",
     "tech" : "Inquirer prompts and arrays",
     "description" : "Build a password based upon user-selected criteria.",
-    "type" : "individual"
+    "type" : "Individual"
 },
 {
     "id" : 6,
@@ -62,7 +62,7 @@
     "github" : "https://github.com/Dengelberger/Work-Day-Scheduler",
     "tech" : "jQuery, Moment.js, dynamic HTML",
     "description" : "Use this app to keep track of appointments and todo's. It will indicate past, present, future",
-    "type" : "individual"
+    "type" : "Individual"
 },
 {
     "id" : 7,
@@ -73,7 +73,7 @@
     "github" : "https://github.com/Dengelberger/Weather-Dashboard",
     "tech" : "API's and AJAX",
     "description" : "Find the current weather conditions and a five-day forecast for a named city.",
-    "type" : "individual"
+    "type" : "Individual"
 },
 {
     "id" : 8,
@@ -84,7 +84,7 @@
     "github" : "https://github.com/Dengelberger/Employee-Directory",
     "tech" : "React.js, JSX, JSON",
     "description" : "A searchable contact list.",
-    "type" : "individual"
+    "type" : "Individual"
 },
 {
     "id" : 9,
@@ -95,6 +95,6 @@
     "github" : "https://github.com/Dengelberger/NoteTaker",
     "tech" : "JSON database, Heroku, dynamic HTML/CSS",
     "description" : "A place to take notes for class or meetings and save them.",
-    "type" : "individual"
+    "type" : "Individual"
 }
 ]
