@@ -6,13 +6,13 @@ const Example = () => {
     <div>
       <Nav>
         <NavItem>
-          <NavLink href="/About">About</NavLink>
+          <NavLink href="/#/About">About</NavLink>
         </NavItem>
         <NavItem>
-          <NavLink href="/Portfolio">Portfolio</NavLink>
+          <NavLink href="/#/Portfolio">Portfolio</NavLink>
         </NavItem>
         <NavItem>
-          <NavLink href="/Contact">Contact</NavLink>
+          <NavLink href="/#/Contact">Contact</NavLink>
         </NavItem>
       </Nav>
     </div>
