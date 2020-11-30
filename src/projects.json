@@ -23,12 +23,12 @@
 {
     "id" : 3,
     "name" : "Hearth",
-    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/Hearth_lqnm2p.jpg",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1605558659/Hearth_qdfhtv.png",
     "alt" : "A temporary picture for our app",
-    "url" : "",
+    "url" : "https://hearth-recipe-app.herokuapp.com",
     "github" : "https://github.com/Dengelberger/Hearth",
     "tech" : "React.js, MongoDB, Heroku, MERN",
-    "description" : "This project is currently in development.",
+    "description" : "An app to create, store, and share family recipies, home cooks, and the memories about them.",
     "type" : "Group"
 },
 {

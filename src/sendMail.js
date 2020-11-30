@@ -4,12 +4,12 @@ var nodemailer = require('nodemailer');
 var cors = require('cors');
 require('dotenv').config();
 
-nodemailer.createTransport({
-  host: "smtp.gmail.com", //replace with your email provider
+const transporter = nodemailer.createTransport({
+  host: "Gmail",
   port: 587,
   auth: {
-    user: "dengelberger", //replace with the email address
-    pass: process.env.emailpw //replace with the password
+    user: "dengelberger@gmail.com", 
+    pass: process.env.emailpw 
   }
 });
 
@@ -28,9 +28,10 @@ transporter.verify(function(error, success) {
     var subject = req.body.subject
     var message = req.body.message
     var content = `name: ${name} \n email: ${email} \n subject: ${subject} \n message: ${message} `
+    
     var mail = {
-      from: name,
-      to: dengelberger,// receiver email,
+      from: "dengelberger@gmail.com",
+      to: "dengelberger@gmail.com",
       subject: subject,
       text: content
     }
