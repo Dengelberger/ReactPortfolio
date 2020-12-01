@@ -1,12 +1,12 @@
 [{
     "id" : 1,
-    "name" : "FurryFriendFinder",
-    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/PetSearch_gyoxrl.png",
-    "alt" : "Main pet search page",
-    "url" : "https://my-pet-search-app.herokuapp.com",
-    "github" : "https://github.com/Dengelberger/FurryFriendFinder",
-    "tech" : "MySQL, Sequelize, Passport",
-    "description" : "An app to search for pets to adopt.",
+    "name" : "Hearth",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1606840935/Screenshot_1142_pzuau2.png",
+    "alt" : "A temporary picture for our app",
+    "url" : "https://hearth-recipe-app.herokuapp.com",
+    "github" : "https://github.com/Dengelberger/Hearth",
+    "tech" : "React.js, MongoDB, Heroku, MERN",
+    "description" : "An app to create, store, and share family recipies, home cooks, and the memories about them.",
     "type" : "Group"
 },
 {
@@ -22,14 +22,14 @@
 },
 {
     "id" : 3,
-    "name" : "Hearth",
-    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1606840935/Screenshot_1142_pzuau2.png",
-    "alt" : "A temporary picture for our app",
-    "url" : "https://hearth-recipe-app.herokuapp.com",
-    "github" : "https://github.com/Dengelberger/Hearth",
-    "tech" : "React.js, MongoDB, Heroku, MERN",
-    "description" : "An app to create, store, and share family recipies, home cooks, and the memories about them.",
-    "type" : "Group"
+    "name" : "FurryFriendFinder",
+    "image" : "https://res.cloudinary.com/dofb2p06j/image/upload/v1604608955/PetSearch_gyoxrl.png",
+    "alt" : "Main pet search page",
+    "url" : "https://my-pet-search-app.herokuapp.com",
+    "github" : "https://github.com/Dengelberger/FurryFriendFinder",
+    "tech" : "MySQL, Sequelize, Passport",
+    "description" : "An app to search for pets to adopt.",
+    "type" : "Group"   
 },
 {
     "id" : 4,
