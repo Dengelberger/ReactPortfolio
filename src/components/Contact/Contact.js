@@ -11,7 +11,7 @@ class Contact extends Component {
 
   render() {
     return (
-        <div lassName="container">
+        <div className="container">
       <h1>Find me at these locations:</h1>
       <Row className="places">
       {this.state.contact.map(contact => <ContactCard
