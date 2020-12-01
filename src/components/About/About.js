@@ -19,7 +19,11 @@ function About() {
       </p>
         </Col>
       </Row>
-     
+      <br></br>
+      <Row>
+        <Col id="webTools">Web Development Tool Proficiencies</Col>
+      </Row>
+      <br></br>
       <Table borderless>
         <tbody>
           <tr>
