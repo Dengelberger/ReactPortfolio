@@ -10,7 +10,7 @@ const ProjectCard = (props) => {
       <Card className="col-sm-4" style={{marginTop: "10px", marginBottom: "10px"}}>
         <CardImg top src={props.image} alt={props.alt} width="200" height="200"/>
         <CardBody>
-          <CardTitle tag="h2">{props.name}</CardTitle>
+          <CardTitle tag="h3">{props.name}</CardTitle>
           <br></br>
           <CardSubtitle tag="h4" className="mb-2">Project Type: {props.type}</CardSubtitle>
           <br></br>
