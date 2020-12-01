@@ -1,36 +1,32 @@
-import React from "react";
-import { Button, Table } from 'reactstrap';
-import "./Contact.css"
+import React, { Component } from "react";
+import contact from "../../contacts.json";
+import ContactCard from "../ContactCard";
+import "./Contact.css";
+import { Row } from "reactstrap";
 
-function Contact () {
-  return (
-    <div className = "container" >
-        <Table id="contact-info" borderless>
-        <tbody>
-          <tr>
-            <th scope="row">
-              <h1>You can find me at these places:</h1>
-            </th>
-            </tr>
-            <tr>
-            <td>
-              <Button color="warning" size="lg" onClick={() => window.open("https://www.linkedin.com/in/donnaengelberger/")}>LinkedIn</Button>
-            </td>
-            </tr>
-            <tr>
-            <td>
-              <Button color="warning" size="lg" onClick={() => window.open("https://github.com/Dengelberger")}>GitHub</Button>
-            </td>
-            </tr>
-            <tr>
-            <td>
-              <Button color="warning" size="lg" onClick={() => window.open("https://drive.google.com/file/d/131YvAQp6Kp3m_Ya3Bj3ruX-eWDFGeMDy/view?usp=sharing")}>Resume</Button>
-            </td>
-          </tr>
-        </tbody>
-      </Table>
-    </div>
+class Contact extends Component {
+  state = {
+    contact: contact,  
+  };
+
+  render() {
+    return (
+        <div lassName="container">
+      <h1>Find me at these locations:</h1>
+      <Row className="places">
+      {this.state.contact.map(contact => <ContactCard
+        key={contact.id}
+        id={contact.id}
+        image={contact.image}
+        alt={contact.alt}
+        name={contact.name}
+        url={contact.url}/>)}
+      </Row>
+      <br></br>
+      <Row></Row>
+      </div>
     )
-  }
-export default Contact;
-
+      };
+    };
+    
+    export default Contact;

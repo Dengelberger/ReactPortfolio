@@ -1,0 +1,28 @@
+[{
+    "id" : 1,
+    "name" : "LinkedIn",
+    "image" : "https://sguru.org/wp-content/uploads/2018/02/linkedin-logo-hd-png-3.png",
+    "alt" : "LinkedIn Logo",
+    "url" : "https://www.linkedin.com/in/donnaengelberger/"
+},
+{
+    "id" : 2,
+    "name" : "Indeed",
+    "image" : "https://img.talkandroid.com/uploads/2016/12/indeed.jpg" ,
+    "alt" : "Indeed Logo",
+    "url" : "https://my.indeed.com/p/donnae-ulghcra"
+},
+{
+    "id" : 3,
+    "name" : "GitHub",
+    "image" : "http://pngimg.com/uploads/github/github_PNG20.png",
+    "alt" : "GitHub Logo",
+    "url" : "https://github.com/Dengelberger"
+},
+{
+    "id" : 4,
+    "name" : "Resume",
+    "image" : "https://www.getaccept.com/hubfs/google-docs-logo.jpg",
+    "alt" : "Google Docs Logo",
+    "url" : "https://drive.google.com/file/d/131YvAQp6Kp3m_Ya3Bj3ruX-eWDFGeMDy/view?usp=sharing"
+}]
