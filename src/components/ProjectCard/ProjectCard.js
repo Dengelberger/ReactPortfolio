@@ -18,7 +18,9 @@ const ProjectCard = (props) => {
           <br></br>
           <CardText>{props.description}</CardText>
           <br></br>
+          <CardText align="center">
           <Button id="url" color="primary" onClick = {() => window.open(props.url,'_blank')}>Launch</Button>                  <Button id="github" color="success" onClick = {() => window.open(props.github,'_blank')}>GitHub Repo</Button>
+          </CardText>
         </CardBody>
       </Card>
   );
