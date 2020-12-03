@@ -4,7 +4,7 @@ import "./ContactCard.css";
 
 const ContactCard = (props) => {
   return (
-    <Card className="col-sm-3" style={{ marginTop: "10px", marginBottom: "10px", paddingLeft: "10px"}}>
+    <Card className="col-md-3" style={{ marginTop: "10px", marginBottom: "10px", paddingLeft: "10px"}}>
       <CardImg top src={props.image} alt={props.alt} width="200" height="240" />
       <CardBody align="center">
         <br></br>
