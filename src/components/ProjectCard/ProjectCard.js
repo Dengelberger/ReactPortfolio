@@ -7,7 +7,7 @@ import "./ProjectCard.css";
 
 const ProjectCard = (props) => {
   return (
-      <Card className="col-md-4" style={{marginTop: "10px", marginBottom: "10px"}}>
+      <Card className="col-md-4" style={{marginTop: "10px", marginBottom: "10px", borderRadius: "25px"}}>
         <CardImg top src={props.image} alt={props.alt} width="200" height="200"/>
         <CardBody>
           <CardTitle tag="h3">{props.name}</CardTitle>

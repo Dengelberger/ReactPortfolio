@@ -1,8 +1,13 @@
 
-.contactForm h1 {
+h1 {
     text-align: left;
     font-size: 36px;
 }
 .places {
-    align-content: center;
+    margin-left: 24px;
+    padding-left: 48px;
+}
+.container {
+    background-color:  rgb(189, 115, 73);
+    border-radius: 24px;
 }

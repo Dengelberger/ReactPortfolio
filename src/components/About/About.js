@@ -5,7 +5,7 @@ import "./About.css"
 
 function About() {
   return (
-    <Container fluid className="main" style={{ align: "center", width: "100%", height: "90%" }}>
+    <Container fluid className="main" style={{ align: "center", width: "100%", height: "90%", borderRadius: "24px" }}>
       <Row style={{ align: "center", width: "100%", height: "30%", marginLeft: "10px" }}>
         <Col sm="3">
           <img src="https://res.cloudinary.com/dofb2p06j/image/upload/v1605283033/Donna_Engelberger_rahhli.jpg" className="img-rounded" alt="Donna Engelberger" width="260" height="280">

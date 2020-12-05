@@ -4,7 +4,7 @@
 }
 
 p {
-    font-size: 24px;
+    font-size: 28px;
 }
 
 #blurbTitle {
@@ -17,4 +17,11 @@ p {
     text-align: center;
     font-weight: 400;
     background-color: white;
+}
+
+.img-rounded {
+    border-radius: 25px;
+    border-style: inset;
+    border-color: rgb(189, 115, 73);
+    border: 20px;
 }
